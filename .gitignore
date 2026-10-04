@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IMDB dataset
+aclImdb/
+aclImdb_v1.tar.gz
+
+# BERT training outputs
+bert_results/
+checkpoint-*/
+
+# Operating system files
+.DS_Store
+Thumbs.db
